@@ -23,7 +23,8 @@ Type a number, press Enter. For a first test choose `9`, then letters `5-6`, wor
 
 ## Example
 
-<img width="890" height="256" alt="Image" src="https://github.com/user-attachments/assets/7048219b-7cec-4f79-ac38-7f318bfcdc59" />
+
+<img width="890" height="256" alt="Image" src="https://github.com/user-attachments/assets/7be0ea2f-78f9-4e27-ae04-89ddceea29e2" />
 
 
 ## Pro Tip
