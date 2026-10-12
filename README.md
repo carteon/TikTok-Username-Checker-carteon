@@ -17,7 +17,7 @@ Next time you only need the second command.
 
 ## Tool
 
-<img width="985" height="547" alt="Image" src="https://github.com/user-attachments/assets/58d29673-4b01-46ae-bf91-92725abcf7a3" />
+<img width="985" height="547" alt="Image" src="https://github.com/user-attachments/assets/9633f558-34e7-4fce-9bad-647eea853935" />
 
 Type a number, press Enter. For a first test choose `9`, then letters `5-6`, words `200`, order `1`, threads `1`. Results are saved in a new `Results_<date>_<time>` folder (`valid.txt`, `taken.txt`, ...). Press `Ctrl+C` to pause, the next start asks if you want to resume.
 
