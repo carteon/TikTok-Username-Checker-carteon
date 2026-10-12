@@ -36,3 +36,6 @@ Ask any AI to make you a .txt file with words you like to check, for example: `C
 AVAILABLE means TikTok shows no public profile for the name. Banned or deleted accounts look the same, so please verify each name in the TikTok app (Edit profile > Username). TAKEN is reliable.
 
 Credits to carteon on Github ✦︎
+
+Feel free to hit me up on Session if you have any Questions!
+Session ID: ´0561c27863966092423eb6188834b649b50a60b9c12d11a3cf24a19cb109cc3863´ ✦︎
