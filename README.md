@@ -26,8 +26,16 @@ Type a number, press Enter. For a first test choose `9`, then letters `5-6`, wor
 
 <img width="890" height="256" alt="Image" src="https://github.com/user-attachments/assets/7be0ea2f-78f9-4e27-ae04-89ddceea29e2" />
 
+## Awesome Features
+
+**Memory:** Every name found taken is saved in `taken_memory.txt` and skipped in later runs, so you never check the same name twice. This saves a lot of time on big lists. You can turn it off or clear it in the menu.
+
+**Sound:** Get a short beep every time an available name is found, so you can leave the checker running in the background. Turn it on or off in the menu, your choice is remembered.
+
+**Your own .txt file:** Check any list of names you like. Choose `f` in the menu and type the file name (see Pro Tip).
 
 ## Pro Tip
+
 
 Ask any AI to make you a .txt file with words you like to check, for example: `ChatGPT make me a .txt file with 10000 Spanish words used in social interaction`. Put the file in the program folder, choose `f` in the menu and type its name.
 
